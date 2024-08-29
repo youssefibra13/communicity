@@ -1,0 +1,32 @@
+{
+    "title": "Communicity Posts",
+    "posts": {
+        "1": {
+            "id": 1,
+            "title": "Pothole on Noyes/Sherman intersection",
+            "description": "There is a large pothole in the intersection of Noyes and Sherman, right under the street light.",
+            "replies": ["I've noticed this too!", "reply2"],
+            "vote": 1,
+            "location": "Evanston",
+            "tags": ["Road issues"]
+          },
+        "2": {
+            "id": 2,
+            "title": "Bus system is not good",
+            "description": "The transit system is not efficient, and I am always late for class because the bus doesn't come on time.",
+            "replies": ["Yes, this is an important issue to bring up", "reply2"],
+            "vote": 5,
+            "location": "Evanston",
+            "tags": ["Public transportation"]
+        },
+        "3": {
+            "id": 3,
+            "title": "Drivers not yielding",
+            "description": "Drivers are not yielding to walking students, especially by Tech",
+            "replies": ["I've had this happen before, I wanted to bring it up", "I agree"],
+            "vote": 2,
+            "location": "Evanston",
+            "tags": ["Drivers"]
+        }
+    }
+}
